@@ -1,6 +1,4 @@
 # 207_Assignment1
-
-
 var fs = require('fs');
 //create directory
 fs.mkdir('Node.js',function(){
